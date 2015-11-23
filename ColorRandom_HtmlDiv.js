@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        ColorRandom HtmlDiv
+// @name        ColorRandom HtmlElements
 // @namespace   https://github.com/thedom85/Greasemonkey/blob/master/ColorRandom_HtmlDiv.js
 // @include     *
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
