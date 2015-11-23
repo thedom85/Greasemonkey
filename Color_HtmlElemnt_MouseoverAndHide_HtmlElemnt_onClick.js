@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Color HtmlElemnt Mouseover And Hide HtmlElemnt onClick
-// @namespace   https://gist.github.com/thedom85/
+// @namespace   https://github.com/thedom85/Greasemonkey/blob/master/Color_HtmlElemnt_MouseoverAndHide_HtmlElemnt_onClick.js
 // @include     *
 // @require     http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
 // @version     1
