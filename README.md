@@ -6,6 +6,6 @@ Script for Greasemonkey:
 
 1. Color Div     --->  [Download](https://github.com/thedom85/Greasemonkey/blob/master/ColorRandom_HtmlDiv.js "Color Div") 
 
-2. Color HtmlElemnt Mouseover And Hide HtmlElemnt onClick  --->  [Download](https://github.com/thedom85/Greasemonkey/blob/master/ColorRandom_HtmlDiv.js "Color Div") 
+2. Color HtmlElemnt Mouseover And Hide HtmlElemnt onClick  --->  [Download](https://github.com/thedom85/Greasemonkey/blob/master/Color_HtmlElemnt_MouseoverAndHide_HtmlElemnt_onClick.js "Color HtmlElemnt MouseoverAndHide HtmlElemnt onClick") 
 
 
