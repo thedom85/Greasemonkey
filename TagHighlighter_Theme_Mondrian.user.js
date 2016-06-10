@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        TagHighlighterThemeWhite
+// @name        TagHighlighterThememondrian
 // @namespace   https://github.com/thedom85/TagHighlighter
 // @description exec JS TagHighlighter on document loaded
 // @include     *
