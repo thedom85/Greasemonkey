@@ -12,3 +12,4 @@ Collection of scripts I've created
 
 4.  TagHighlighter_Theme_Easy  Porting della libreria  TagHighlighter in Greasemonkey with Theme Easy   ---> [Download]( https://github.com/thedom85/Greasemonkey/blob/master/TagHighlighter_Theme_Easy.user.js "TagHighlighter Theme Easy ") 
 
+5.  TagHighlighter_Theme_Random.user.js 	  Porting della libreria  TagHighlighter in Greasemonkey with Theme Random   ---> [Download]( https://github.com/thedom85/Greasemonkey/blob/master/TagHighlighter_Theme_Random.user.js  "TagHighlighter Theme Easy ") 
